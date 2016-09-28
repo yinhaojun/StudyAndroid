@@ -6,7 +6,7 @@
     * [AndroidStudio快捷键](12、androidstudio快捷键.md)
     * [搭建开发环境](搭建开发环境.md)
         * [windows](windows.md)
-        * ubuntu
+        * [ubuntu](ubuntu.md)
         * mac
     * [版本管理之Git](git.md)
 * [Java篇](java篇.md)
