@@ -1,7 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* [第一章、工具篇](chapter1.md)
-    * [1.1、AndroidStudio](androidstudio.md)
-    * [1.2、AndroidStudio快捷键](12、androidstudio快捷键.md)
+* [工具篇](chapter1.md)
+    * [AndroidStudio](androidstudio.md)
+    * [AndroidStudio快捷键](12、androidstudio快捷键.md)
+    * [搭建开发环境](搭建开发环境.md)
+        * windows
+        * ubuntu
+        * mac
+    * [版本管理之Git](git.md)
 
