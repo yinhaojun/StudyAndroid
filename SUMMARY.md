@@ -32,6 +32,6 @@
         * [ImageLoader](imageloader.md)
         * [Glide](glide.md)
         * [Picasso](picasso.md)
-        * Fresco
+        * [Fresco](fresco.md)
     * 二维码
 
