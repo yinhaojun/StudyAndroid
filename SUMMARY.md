@@ -7,7 +7,7 @@
     * [搭建开发环境](搭建开发环境.md)
         * [windows](windows.md)
         * [ubuntu](ubuntu.md)
-        * mac
+        * [mac](mac.md)
     * [版本管理之Git](git.md)
 * [Java篇](java篇.md)
 * [面向对象篇](面向对象篇.md)
