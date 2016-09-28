@@ -31,7 +31,7 @@
     * 图片加载
         * [ImageLoader](imageloader.md)
         * [Glide](glide.md)
-        * Picasso
+        * [Picasso](picasso.md)
         * Fresco
     * 二维码
 
