@@ -9,6 +9,10 @@
         * ubuntu
         * mac
     * [版本管理之Git](git.md)
-* Java篇
+* [Java篇](java篇.md)
 * [面向对象篇](面向对象篇.md)
+* 基础篇
+* 实战篇
+* UI设计篇
+* 常用开源库解析篇
 
